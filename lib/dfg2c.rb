@@ -3,8 +3,7 @@ require "dotenv"
 require "octokit"
 Dotenv.load
 
-module Dfg
+module Dfg2c
   class  Runner
-
   end
 end
